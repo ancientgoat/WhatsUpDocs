@@ -1,6 +1,6 @@
 "# WhatsUpDocs" 
 
-Pre-cancun
+Pre-Cancun
 
 ### Metadata Extravaganza (ME)
 ### Metadata Experience (ME)
@@ -22,7 +22,7 @@ Gradle plugin to read small SQL definitions in, expand them.  And then to
 
 #### TooSkunk (previous was Skunk - also called JR 'Just Rules')
 
-Took the Skunk project, written in cancun and did several things ....
+Took the Skunk project, written in Cancun and did several things ....
 * Added Spring SpEL expressions.
 * Completely re-factored the input JSON and the executing code.
 * Expanded the Rules to have ....
