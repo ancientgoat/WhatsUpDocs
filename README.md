@@ -22,7 +22,7 @@ Gradle plugin to read small SQL definitions in, expand them.  And then to
    Java classes, compile them, and then jar them up under the
    SaulDemo.jar
 
-#### TooSkunk (previous was Skunk)
+#### TooSkunk (previous was Skunk - also called JR 'Just Rules')
 
 Took the Skunk project, written in cancun and did several things ....
 * Added Spring SpEL expressions.
