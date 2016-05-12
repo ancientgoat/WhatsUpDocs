@@ -2,10 +2,10 @@
 
 Pre-cancun
 
-### MetaData Extravaganza (ME)
-### MetaData Experience (ME)
-### MetaData Exhibitiion (ME)
-### MetaData Examples (ME)
+### Metadata Extravaganza (ME)
+### Metadata Experience (ME)
+### Metadata Exhibitiion (ME)
+### Metadata Examples (ME)
 
 
 #### OneCallSaul
