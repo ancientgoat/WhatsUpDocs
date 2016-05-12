@@ -39,7 +39,7 @@ packet is hardcoded.  This project has very little code.
 #### JrRestScheduler
 
 Uses the TooSkunk project's jar to run Rules defined in the src/main/resources
-  directory.  These rules are run two different ways, one is a sample rule runs
-  every 5 seconds, on a timer.  And the other is that you can call a Rule
+  directory.  These rules are run two different ways.  One is on a schedule, a sample rule runs
+  every 5 seconds.  And the other is that you can call a Rule
   as a Rest call, pass it a parameter, and have it execute.
 
