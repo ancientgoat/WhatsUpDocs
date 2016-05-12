@@ -32,14 +32,15 @@ Took the Skunk/Just Rules project, written in Cancun and did several things ....
 
 #### TooRest
 
-A rest server that just using the Data Definition files from SaulDemo
-to provide return data packets.  Nothing regarding each SQL query returned
-packet is hardcoded.  This project has very little code.
+A rest server that just uses the Data Definition files from SaulDemo
+to provide return data packets, based on Rest calls made with the
+name of the Data Definition.  Nothing regarding each SQL query returned packet
+is hardcoded.  This project has very little code.
 
 #### JrRestScheduler
 
-Uses the TooSkunk project's jar to run Rules defined in the src/main/resources
+Uses the TooSkunk project's jar to run Rules defined locally in the src/main/resources/....
   directory.  These rules are run two different ways.  One is on a schedule, a sample rule runs
-  every 5 seconds.  And the other is that you can call a Rule
-  as a Rest call, pass it a parameter, and have it execute.
+  every 5 seconds.  And the other is that you can call a Rule as a Rest call, pass it a
+  parameter, and have it execute.  Again, not a lot on code in this project.
 
