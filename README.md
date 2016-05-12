@@ -1,7 +1,5 @@
 "# WhatsUpDocs" 
 
-"# TooSkunk"
-
 Pre-cancun
 
 ### MetaData Extravaganza (ME)
