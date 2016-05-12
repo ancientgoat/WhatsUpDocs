@@ -54,7 +54,8 @@ Uses the TooSkunk project's jar to run Rules defined locally in the src/main/res
  Imagine the ability to track each and every SQL based rest call, the input parameters, and the
  SQL behind the call.  Each SQL definition given a unique name (key) along with a version.  Generated
  pojos assist programmers interacting with each definition, and each call to the database, or Rest
- call logged to a central source with all parameters use in the WHERE clause as a filter.
+ call logged to a central source with all parameters use in the WHERE clause as a filter.  With each
+ SQL query able to cache their results for a period of time.
 
  Imagine a set of Rules, defined as text in a persistent storage area, that can be jarred, shared,
  run as rest calls, read from persistent storage, etc.  And that have to ability, when executed, to
