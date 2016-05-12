@@ -44,3 +44,22 @@ Uses the TooSkunk project's jar to run Rules defined locally in the src/main/res
   every 5 seconds.  And the other is that you can call a Rule as a Rest call, pass it a
   parameter, and have it execute.  Again, not a lot on code in this project.
 
+
+#### Imagine
+
+ Imagine a code base where much of the day to day code is generated, and programmers
+ spend their time adding business logic, not writing simple entities.  Any repeated pattern
+ based on Database tables can be generated, jarred, and used by other projects.
+
+ Imagine the ability to track each and every SQL based rest call, the input parameters, and the
+ SQL behind the call.  Each SQL definition given a unique name (key) along with a version.  Generated
+ pojos assist programmers interacting with each definition, and each call to the database, or Rest
+ call logged to a central source with all parameters use in the WHERE clause as a filter.
+
+ Imagine a set of Rules, defined as text in a persistent storage area, that can be jarred, shared,
+ run as rest calls, read from persistent storage, etc.  And that have to ability, when executed, to
+ report the execution path, along with the data used to get there.
+
+ Imagine Rules, through their Actions, able to access on demand, dynamically, self logging, persisted and/or
+ cached data packets based on unique Metadata definition names/keys.  These Rules, of course, are able
+ to provide dynamic parameters for each request of a data packet.
